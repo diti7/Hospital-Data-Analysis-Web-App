@@ -24,7 +24,7 @@ st.markdown(""" This interactive tool allows you to explore hospital admission t
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Datasets
-folder_path = r"C:\Users\aditi\OneDrive\Desktop\📌Projects!\Hospital\Data"
+folder_path = r"./Data"
 
 # CSV Files
 files = [f for f in os.listdir(folder_path) if f.endswith(".csv")]
