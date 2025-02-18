@@ -10,7 +10,7 @@
    
 
 ## 🌱 Introduction:
-This interactive web app is built with Python and Streamlit to analyze hospital admission data and provide insights on resource allocation. The app utilizes Seaborn and Matplotlib for data visualization, Pandas for data manipulation, and Scikit-learn for building a predictive model for future admissions.
+This Hospital Data Analysis Web App is built using Python and Streamlit to explore and visualize hospital admission data. It includes data cleaning, advanced visualizations with Seaborn and Matplotlib, and a predictive model using Scikit-learn to forecast future admissions. The app provides valuable insights for optimizing hospital resource allocation and analyzing trends in patient demographics.
 
 ## 🎯 Objective:
 - Analyze hospital admissions for resource allocation.
