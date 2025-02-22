@@ -19,12 +19,12 @@ This Hospital Data Analysis Web App is built using Python and Streamlit to explo
 - Explore trends, peak admission periods, and patient demographics
 
 ## 🧑‍💻 Tech Stack:
-- **Python** as the core programming language
-- **Streamlit** for building the web app interface
-- **Pandas** for data manipulation and analysis
-- **Matplotlib & Seaborn** for visualizations
-- **Scikit-learn** for building the linear regression prediction model
-- **NumPy** for numerical operations
+- **Python** as the core programming language.
+- **Streamlit** for building the web app interface.
+- **Pandas** for data manipulation and analysis.
+- **Matplotlib & Seaborn** for visualizations.
+- **Scikit-learn** for building the linear regression prediction model.
+- **NumPy** for numerical operations.
 
 ## 💡 Features:
 - **Data Cleaning:** Handle missing values, duplicates, and outliers.
