@@ -249,7 +249,7 @@ if selected_file:
         future_predictions_df = pd.DataFrame({
             "Month": future_dates.month,
             "Year": future_dates.year,
-            "Predicted Admissions": future_predictions and prospect
+            "Predicted Admissions": future_predictions
         })
         st.write(future_predictions_df)
     else:
