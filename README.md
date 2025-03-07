@@ -33,7 +33,7 @@ This Hospital Data Analysis Web App is built using Python and Streamlit to explo
 - **Interactive Filters:** Apply custom filters on hospital names, admission counts, and more.
 - **Predictive Model:** Forecast future hospital admissions using Linear Regression.
 
-## 📂 Datasets:
+## 📂 Datasets: 
 This project uses 4 CSV files containing data related to hospital admissions, COVID-19 cases, ICU admissions, patient demographics, severity levels, and conditions.
 Data columns include: admission_date, hospital_name, admission_count, condition_type, patient_age_group, patient_gender, readmission_count, severity_level, length_of_stay_avg, seasonal_indicator.
 - https://www.kaggle.com/datasets/datasetengineer/riyadh-hospital-admissions-dataset-20202024
